@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"Automatic Posture Improver, Water Logger, and Workout Assistant via your AirPods' motion sensor" = "Automatic Posture Improver, Water Logger, and Workout Assistant via your AirPods' motion sensor";
+
+"Receive alerts if you start to slouch to remind yourself to improve posture" = "Receive alerts if you start to slouch to remind yourself to improve posture";
+
+"Log workout reps and compete with friends to workout more" = "Log workout reps and compete with friends to workout more";
+
+"Log water to encourage healthier habits" = "Log water to encourage healthier habits";
+
+"PodPower is paused, please press the play button near the character's head" = "PodPower is paused, please press the play button near the character's head";
+
+"PAUSED" = "PAUSED";
+
+"coins_and_levels" = "Coins and Levels";
+
+"Coins are used to unlock items in the future" = "Coins are used to unlock items in the future";
+
+"Level up with reps to compete with others" = "Level up with reps to compete with others";
+
+"Background Mode ON" = "Background Mode ON";
+
+"Background Mode OFF" = "Background Mode OFF";
+
+"Background Mode" = "Background Mode";
+
+"PodPower can work in the background while doing whatever with your phone" = "PodPower can work in the background while doing whatever with your phone";
+
+"May impact battery performance" = "May impact battery performance";
+
+"Posture Mode ON" = "Posture Mode ON";
+
+"Posture Mode OFF" = "Posture Mode OFF";
+
+"Posture Mode Sensitivity" = "Posture Mode Sensitivity";
+
+"Posture Alarm" = "Posture Alarm";
+
+"Posture Mode" = "Posture Mode";
+
+"How Posture Mode Works" = "How Posture Mode Works";
+
+"PodPower can detect your AirPods' motion and detect head movement" = "PodPower can detect your AirPods' motion and detect head movement";
+
+"With motion data, you can be alerted and annoyed when you have bad posture" = "With motion data, you can be alerted and annoyed when you have bad posture";
+
+"Have Better Posture!" = "Have Better Posture!";
+
+"Drink Mode ON" = "Drink Mode ON";
+
+"Drink Mode OFF" = "Drink Mode OFF";
+
+"Add Drink Type" = "Add Drink Type";
+
+"Drink Name" = "Drink Name";
+
+"Create Drink" = "Create Drink";
+
+"Drink Mode" = "Drink Mode";
+
+"How Drink Mode Works" = "How Drink Mode Works";
+
+"With motion data, you can count when your head tilts back as you drink" = "With motion data, you can count when your head tilts back as you drink";
+
+"Drink more water!" = "Drink more water!";
