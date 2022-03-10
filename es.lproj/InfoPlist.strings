@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"NSMotionUsageDescription" = "Utiliza el sensor de movimiento de los AirPods para detectar la postura, la ingesta de agua y las repeticiones de entrenamiento"
