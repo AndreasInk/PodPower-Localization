@@ -5,6 +5,7 @@ PodPower is an app that uses the AirPods motion sensor to automatically improve 
 
 If you'd like to help with translating, please submit a PR and then I'll send over a promo code as a thank you :)
 
-| Translator    | Language      | Twiiter
-| ------------- | ------------- |--------------|
-| Andreas Ink   | English       |@AndreasInk
+| Translator     | Language      | Twiiter
+| -------------  | ------------- |--------------|
+| Andreas Ink    | English       | @AndreasInk
+| MalbonaGenio   | Spanish       | @malbonagenio
