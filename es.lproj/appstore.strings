@@ -1,0 +1,50 @@
+/* 
+  appstore.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"Power Up Your Headphones" = "Potencia tus auriculares";
+
+"PodPower is a power up for your AirPods.
+
+Supports AirPods 3, Pro, and Max
+
+All features listed below work in the background...
+
+Posture Mode:
+- Plays a sound when your posture is poor to remind you to improve it
+- Slouching is bad for your posture and health, PodPower empowers you to improve your posture
+
+Workout Mode:
+- Count reps and compete with friends to encourage more workouts
+- Workouts are great because they make you feel great, PodPower encourages more workouts and tracks your fitness journey
+
+Drink Mode:
+- Log your water consumption
+- Staying hydrated is important, log your water consumption and empower yourself to reach your hydro goals" =
+
+"PodPower es una mejora para tus AirPods.
+
+Soporta AirPods 3, Pro y Max
+
+Todas las funciones enumeradas a continuación funcionan en segundo plano...
+
+Modo Postura:
+- Reproduce un sonido cuando tu postura es pobre para recordarte que debes mejorarla
+- Encorvarse es malo para tu postura y salud, PodPower te permite mejorar tu postura
+
+Modo Entrenamiento
+- Cuenta repeticiones y compite con amigos para fomentar más entrenamientos.
+- Los entrenamientos son geniales porque te hacen sentir bien, PodPower fomenta más entrenamientos y realiza un seguimiento de tu evolución
+
+Modo Bebida:
+- Registra tu consumo de agua
+- Mantenerse hidratado es importante, registra tu consumo de agua y preparate para alcanzar tus objetivos";
+
+"AirPods, AirPod, Posture, Fitness, Water, Health, Water Logging, Fitness Logging, Logging, Workout
+"
+=
+"AirPods, AirPod, Postura, Fitness, Agua, Salud, Ingesta de agua, Registro Fitness, Registro, Ejercicio
+";
