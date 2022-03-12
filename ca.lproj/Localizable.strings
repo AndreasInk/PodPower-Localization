@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"Automatic Posture Improver, Water Logger, and Workout Assistant via your AirPods' motion sensor" = "Millora automàtica de la postura, registre d'ingesta d'aigua i assistent d'entrenament a través del sensor de moviment dels AirPods";
+
+"Receive alerts if you start to slouch to remind yourself to improve posture" = "Rep alertes si comences a encorbar-te per recordar-te que has de millorar la postura";
+
+"Log workout reps and compete with friends to workout more" = "Registra repeticions en entrenaments i competeix amb amics per entrenar més";
+
+"Log water to encourage healthier habits" = "Registra ingesta d'aigua per fomentar hàbits més saludables";
+
+"PodPower is paused, please press the play button near the character's head" = "PodPower està en pausa, premeu el botó de reproducció a prop del cap del personatge";
+
+"PAUSED" = "EN PAUSA";
+
+"coins_and_levels" = "Monedes i Nivells";
+
+"Coins are used to unlock items in the future" = "Les monedes es fan servir per desbloquejar elements en el futur";
+
+"Level up with reps to compete with others" = "Puja de nivell amb repeticions per competir amb altres";
+
+"Background Mode ON" = "Mode en segon pla ACTIVAT";
+
+"Background Mode OFF" = "Mode en segon pla DESACTIVAT";
+
+"Background Mode" = "Mode en segon pla";
+
+"PodPower can work in the background while doing whatever with your phone" = "PodPower pot funcionar en segon pla mentre fas el que sigui amb el teu telèfon";
+
+"May impact battery performance" = "Pot afectar el rendiment de la bateria";
+
+"Posture Mode ON" = "Mode postura ACTIVAT";
+
+"Posture Mode OFF" = "Mode postura DESACTIVAT";
+
+"Posture Mode Sensitivity" = "Sensibilitat del mode postura";
+
+"Posture Alarm" = "Alarma de postura";
+
+"Posture Mode" = "Mode postura";
+
+"How Posture Mode Works" = "Com funciona el mode de postura";
+
+"PodPower can detect your AirPods' motion and detect head movement" = "PodPower pot detectar el moviment dels teus AirPods i detectar el moviment del cap";
+
+"With motion data, you can be alerted and annoyed when you have bad posture" = "Amb les dades de moviment, pots rebre alertes quan tens una postura pobre";
+
+"Have Better Posture!" = "Tingues una millor postura!";
+
+"Drink Mode ON" = "Mode beguda ACTIVAT";
+
+"Drink Mode OFF" = "Mode beguda DESACTIVAT";
+
+"Add Drink Type" = "Afegir Tipus de Beguda";
+
+"Drink Name" = "Nom de la beguda";
+
+"Create Drink" = "Crear beguda";
+
+"Drink Mode" = "Mode Beguda";
+
+"How Drink Mode Works" = "Com funciona el mode de beguda";
+
+"With motion data, you can count when your head tilts back as you drink" = "Amb les dades de moviment, pots comptar quan inclines el cap enrere mentre beus";
+
+"Drink more water!" = "Beu més aigua!";
