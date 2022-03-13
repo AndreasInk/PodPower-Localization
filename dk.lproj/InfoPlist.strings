@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"NSMotionUsageDescription" = "Bruger AirPods' bevægelsessensor til at måle kropsholdning, vandindtag og træningsgentagelser"
+
+
