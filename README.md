@@ -9,3 +9,4 @@ If you'd like to help with translating, please submit a PR and then I'll send ov
 | -------------  | ------------- |--------------|
 | Andreas Ink    | English       | @AndreasInk
 | MalbonaGenio   | Spanish       | @malbonagenio
+| Max Ribuoli    | Italian       | @maxribuoli

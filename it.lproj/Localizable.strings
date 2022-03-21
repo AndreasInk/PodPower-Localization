@@ -1,0 +1,100 @@
+/*
+  Localizable.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+
+*/
+"Automatic Posture Improver, Water Logger, and Workout Assistant via your AirPods' motion sensor" = "Miglioramento automatico della postura, registrazione dell'assunzione di acqua e assistente negli allenamenti tramite il sensore di movimento delle tue AirPods";
+
+"Receive alerts if you start to slouch to remind yourself to improve posture" = "Ricevi avvisi se inizi a piegarti per ricordarti di migliorare la tua postura";
+
+"Log workout reps and compete with friends to workout more" = "Registra le ripetizioni degli allenamenti e gareggia con gli amici per allenarti di più";
+
+"Log water to encourage healthier habits" = "Registra le assunzioni di acqua per avere abitudini più sane";
+
+"PodPower is paused, please press the play button near the character's head" = "PodPower è in pausa, premi il pulsante play vicino alla testa del personaggio";
+
+"PAUSED" = "IN PAUSA";
+
+"coins_and_levels" = "Monete e Livelli";
+
+"Coins are used to unlock items in the future" = "Le monete servono per sbloccare oggetti in futuro";
+
+"Level up with reps to compete with others" = "Sali di livello con le ripetizioni per competere con gli altri";
+
+"Background Mode ON" = "La modalità in background è accesa";
+
+"Background Mode OFF" = "La modalità in background è spenta";
+
+"Background Mode" = "Modalità in background";
+
+"Workout Mode" = "Modalità allenamento";
+
+"Workout Mode ON" = "La modalità allenamento è accesa";
+
+"Workout Mode OFF" = "La modalità allenamento è spenta";
+
+"Workout Sensitivity" = "Sensibilità dell'allenamento";
+
+"High" = "Alta";
+
+"Low" = "Bassa";
+
+"Medium" = "Media";
+
+"PodPower can work in the background while doing whatever with your phone" = "PodPower può funzionare in background mentre fai altro con il tuo telefono";
+
+"May impact battery performance" = "Può influire sulle prestazioni della batteria";
+
+"Posture Mode ON" = "La modalità postura è accesa";
+
+"Posture Mode OFF" = "La modalità postura è spenta";
+
+"Posture Mode Sensitivity" = "Sensibilità della modalità postura";
+
+"Posture Alarm" = "Allarme postura";
+
+"Posture Mode" = "Modalità postura";
+
+"How Posture Mode Works" = "Come funziona la modalità postura";
+
+"PodPower can detect your AirPods' motion and detect head movement" = "PodPower può rilevare il movimento dei tuoi AirPods e determinare il movimento della testa";
+
+"With motion data, you can be alerted and annoyed when you have bad posture" = "Con i dati di movimento, puoi essere avvisato quando non hai una buona postura";
+
+"Have Better Posture!" = "Migliora la postura!";
+
+"Drink Mode ON" = "La modalità bere è accesa";
+
+"Drink Mode OFF" = "La modalità bere è spenta";
+
+"Add Drink Type" = "Aggiungi il tipo di bevanda";
+
+"Drink Name" = "Nome della bevanda";
+
+"Create Drink" = "Crea una bevuta";
+
+"Drink Mode" = "Modalità bere";
+
+"How Drink Mode Works" = "Come funziona la modalità bere";
+
+"With motion data, you can count when your head tilts back as you drink" = "Con i dati di movimento, puoi contare quante volte la testa si inclina all'indietro mentre bevi";
+
+"Drink more water!" = "Bevi più acqua!";
+
+"Unlimited Sessions" = "Sessioni illimitate";
+
+"Full Customization" = "Personalizzazione completa";
+
+"New Posture Sounds" = "Nuovi suoni di postura";
+
+"Restore Purchases" = "Riprista gli acquisti";
+
+"Purchase For $1.99" = "Acquista per $1.99";
+
+"Unlock The Power Pack to Have Unlimited Sessions" = "Sblocca il pacchetto Power per avere sessioni illimitate";
+
+"Automatically works in the background"= "Funziona automaticamente in background";
+
+"Improve Posture, Log Water Intake, and Count Workout Reps via your AirPods motion sensor" = "Migliora la postura, registra l'assunzione di acqua e conta le ripetizioni di allenamento tramite il sensore di movimento delle tue AirPods";
