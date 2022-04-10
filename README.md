@@ -7,6 +7,7 @@ If you'd like to help with translating, please submit a PR and then I'll send ov
 
 | Translator     | Language      | Twiiter
 | -------------  | ------------- |--------------|
-| Andreas Ink    | English       | @AndreasInk
-| MalbonaGenio   | Spanish       | @malbonagenio
-| Max Ribuoli    | Italian       | @maxribuoli
+| Andreas Ink    | English          | @AndreasInk
+| MalbonaGenio   | Spanish, Catalan | @malbonagenio
+| Max Ribuoli    | Italian          | @maxribuoli
+| Simon          | Danish           | @SimonBachDall

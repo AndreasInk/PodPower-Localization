@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  PodFitness
+
+  Created by Andreas Ink on 3/9/22.
+  
+*/
+"Automatic Posture Improver, Water Logger, and Workout Assistant via your AirPods' motion sensor" = "Automatisk Holdnings Forbedring, Vandindtagelseslog og Træningsassistent via dine airpods' bevægelses sensor";
+
+
+"Receive alerts if you start to slouch to remind yourself to improve posture" = "Modtag notifikationer hvis du begynder at hænge med kroppen for at forbedre kropsholdningen";
+
+
+"Log workout reps and compete with friends to workout more" = "Log træningsgentagelser og konkurér med dine venner for at træne mere";
+
+
+"Log water to encourage healthier habits" = "Log vandindtagelse for at skabe sundere vaner";
+
+
+"PodPower is paused, please press the play button near the character's head" = "PodPower er på pause, tryk på afspilikonet tæt på figurens hoved";
+
+
+"PAUSED" = "PAUSE";
+
+
+"coins_and_levels" = "Coins og Levels";
+
+
+"Coins are used to unlock items in the future" = "Coins er brugt til at låse op for genstande i fremtiden";
+
+
+"Level up with reps to compete with others" = "Stig i levels med træningsgentagelser for at konkurere med andre";
+
+
+"Background Mode ON" = "Baggrundstilstand TIL";
+
+
+"Background Mode OFF" = "Baggrundstilstand FRA";
+
+
+"Background Mode" = "Baggrundstilstand";
+
+
+"PodPower can work in the background while doing whatever with your phone" = "PodPower virker også i baggrunden mens du laver andre ting på din telefon";
+
+
+"May impact battery performance" = "Vil måske kunne mærkes på batteriets levetid";
+
+
+"Posture Mode ON" = "Holdingstilstand TIL";
+
+
+"Posture Mode OFF" = "Holdingstilstand FRA";
+
+
+"Posture Mode Sensitivity" = "Holdningstilstand sensitivitet";
+
+
+"Posture Alarm" = "Holdningsalarm";
+
+
+"Posture Mode" = "Holdningstilstand";
+
+
+"How Posture Mode Works" = "Hvordan holdningstilstand virker";
+
+
+"PodPower can detect your AirPods' motion and detect head movement" = "PodPower kan mærke AirPods' bevægelse og derved registrere hovedbevægelse";
+
+
+"With motion data, you can be alerted and annoyed when you have bad posture" = "Med bevægelsesdata kan du blive alameret og forstyrret, når du har dårlig holdning";
+
+
+"Have Better Posture!" = "Vær opmærksom på din holdning!";
+
+
+"Drink Mode ON" = "Drikketilstand TIL";
+
+
+"Drink Mode OFF" = "Drikketilstand FRA";
+
+
+"Add Drink Type" = "Tilføj drikketype";
+
+
+"Drink Name" = "Drikkens navn";
+
+
+"Create Drink" = "Tilføj drik";
+
+
+"Drink Mode" = "Drikketilstand";
+
+
+"How Drink Mode Works" = "Hvordan drikketilstand Virker";
+
+
+"With motion data, you can count when your head tilts back as you drink" = "Med bevægelses data vil drikke blive registreret hver gange du tilter hovedet tilbage";
+
+
+"Drink more water!" = "Drik mere vand!";
+
+
